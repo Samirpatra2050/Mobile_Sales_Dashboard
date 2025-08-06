@@ -36,4 +36,4 @@ Power Query (M Language)
 Microsoft Excel (for data preparation)
 Maps visualization via Bing
 📸 Screenshot
-Here is the link of the dashboard pic of the project:[https://github.com/samirpatra/mobile-sales-dashboard/blob/main/dashboard-screenshot.png]
+Here is the link of the dashboard pic of the project:(https://github.com/Samirpatra2050/Mobile_Sales_Dashboard/blob/main/Screenshot%202025-08-06%20230847.png)]
